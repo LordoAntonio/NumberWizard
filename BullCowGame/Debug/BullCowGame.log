@@ -1,2 +1,3 @@
-﻿  FBullCowGame.cpp
+﻿  Main.cpp
+C:\Users\Lordo Antonio\source\repos\BullCowGame\Main.cpp(60): warning C4715: "GetGuessAndPrintBack”: niewszystkie ścieżki kodu zwracają wartość
   BullCowGame.vcxproj -> C:\Users\Lordo Antonio\source\repos\BullCowGame\Debug\BullCowGame.exe
